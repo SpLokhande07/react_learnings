@@ -1,17 +1,3 @@
-# Understandings
-
-What is Virtual Dom ? 
-
-What is Firbre ? 
-A powerful algorithm used by React to update DOM, by controllin what needs to be changed.
-
-How React update Tree Structure (DOM).
-
-How Hooks Works
-
-Implemented Hook in project
-
-
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
