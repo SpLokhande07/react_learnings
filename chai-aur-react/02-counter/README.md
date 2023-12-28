@@ -2,8 +2,8 @@
 
 What is Virtual Dom ? 
 
-What is Firbre ? 
-A powerful algorithm used by React to update DOM, by controllin what needs to be changed.
+What is Fibre ? 
+A powerful algorithm used by React to update DOM, by controlling what needs to be changed.
 
 How React update Tree Structure (DOM).
 
