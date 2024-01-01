@@ -5,16 +5,15 @@ import Layout from './Layout.jsx'
 import './index.css'
 import { RouterProvider, createBrowserRouter } from 'react-router-dom'
 import Home from './component/Home/Home'
+import About from './component/About/About'
 
-
-import {About} from './component/About'
 const router = createBrowserRouter([
   
     {
       path: '/',element: <Layout />,
       children: [
         {path: "", element: <Home />},
-        {path: "", element: <A />},
+        {path: "", element: <About />},
       ]
     },
   
