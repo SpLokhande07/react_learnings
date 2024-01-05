@@ -1,0 +1,4 @@
+{
+    "editor.defaultFormatter": "sourcegraph.cody-ai",
+    "editor.formatOnSave": true
+}
